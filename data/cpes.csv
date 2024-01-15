@@ -34201,6 +34201,7 @@
 "microsoft","azure_stack_hub"
 "microsoft","azure_storage_blobs"
 "microsoft","azure_storage_explorer"
+"microsoft","azure_storage_mover"
 "microsoft","azure_storage_queue"
 "microsoft","azure_uamqp"
 "microsoft","background_intelligent_transfer_service"
