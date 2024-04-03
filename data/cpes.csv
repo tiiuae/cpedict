@@ -45261,6 +45261,7 @@
 "prosshd","prosshd"
 "prost_project","prost"
 "prosysinfo","tftp_server_tftpdwin"
+"prosysopc","ua_historian"
 "prosysopc","ua_modbus_server"
 "prosysopc","ua_simulation_server"
 "protected_pages_project","protected_pages"
