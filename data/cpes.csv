@@ -61821,6 +61821,8 @@
 "wso2","business_rules_server"
 "wso2","carbon"
 "wso2","carbon-registry"
+"wso2","carbon_identity_application_authentication_endpoint"
+"wso2","carbon_identity_application_authentication_framework"
 "wso2","complex_event_processor"
 "wso2","dashboard_server"
 "wso2","data_analytics_server"
