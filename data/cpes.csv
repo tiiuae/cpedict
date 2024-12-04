@@ -2808,6 +2808,7 @@
 "amd","ryzen_master"
 "amd","ryzen_master_monitoring_sdk"
 "amd","trusted_platform_modules_reference"
+"amd","uprof"
 "amd","user_experience_program"
 "amd","vbios_flash_tool_software_development_kit"
 "amdroidapp","alarm_clock_for_heavy_sleepers"
