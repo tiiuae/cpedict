@@ -32828,6 +32828,7 @@
 "linux-ha","heartbeat"
 "linux-ha","ocf_resource_agents"
 "linux-ipv6","umip"
+"linux-kvm","kernel-based_virtual_machine"
 "linux-loader_project","linux-loader"
 "linux-nfs","nfs-utils"
 "linux-nis","rpc.yppasswdd"
