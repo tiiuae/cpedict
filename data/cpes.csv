@@ -29315,6 +29315,7 @@
 "jenkins","mission_control"
 "jenkins","mongodb"
 "jenkins","monitoring"
+"jenkins","mq_notifier"
 "jenkins","msteams_webhook_trigger"
 "jenkins","mstest"
 "jenkins","multibranch_scan_webhook_trigger"
