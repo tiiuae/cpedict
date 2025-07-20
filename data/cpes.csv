@@ -3485,6 +3485,7 @@
 "apache","commons_io"
 "apache","commons_jelly"
 "apache","commons_jxpath"
+"apache","commons_lang"
 "apache","commons_messaging_mail"
 "apache","commons_net"
 "apache","commons_text"
